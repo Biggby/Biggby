@@ -10,7 +10,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=biggby&row=4&theme=onedark&no-frame=true"/>       
              <hr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stemmed&langs_count=5&theme=dark"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggby&langs_count=5&theme=dark"
              <hr>
              <hr>
         <img src="https://img.shields.io/badge/If you need me message me on telegram @IgnPosh-darkblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" href="IgnPosh">
