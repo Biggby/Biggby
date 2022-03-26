@@ -10,9 +10,4 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=biggby&row=4&theme=onedark&no-frame=true"/>
     </a>    
-    </a>
-    <a><h2>Twitter</h2></a>
-    <a href="https://github.com/lowlighter/metrics">
-        <img width="500" alt= "tweets" src="/tweets.svg"/>
-    </a>
 </div>
