@@ -12,6 +12,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggby&langs_count=5&theme=dark"
              <hr>
              <hr>
-        <img src="https://img.shields.io/badge/If you need me message me on Instagram @twelvex0-darkblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" href="Iridium">
+        <img src="https://img.shields.io/badge/If you need me message me on Instagram @twelvex0-darkblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" href="">
      </a>    
 </div>
